@@ -46,7 +46,7 @@ Dataset source: [https://mavenanalytics.io/data-playground](https://mavenanalyti
 
 - [x] Dataset understanding
 - [x] Initial Excel cleaning
-- [ ] Python setup and data loading
+- [x] Python setup and data loading
 - [ ] Exploratory Data Analysis
 - [ ] Visualisations
 - [ ] Business insights
